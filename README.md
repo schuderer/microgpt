@@ -1,2 +1,2 @@
 # microgpt
-Folllowing Andrej Karpathy's TinyShakespeare Transformer Tutorial
+Following Andrej Karpathy's TinyShakespeare Transformer Tutorial
